@@ -237,3 +237,5 @@ function isEven(number) {
 // Example usage:
 console.log(isEven(4));  // true (4 is even)
 console.log(isEven(7));  // false (7 is odd)
+
+//Question: 14 
